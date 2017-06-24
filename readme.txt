@@ -11,3 +11,6 @@ My second changdasde
 >>>>>>> feature123
 3rd Change feature123:wq
 Änderunge
+Noch eine Reihe
+Noch eine weitere Reihe
+Noch eine weitere Reihe nach der nächsten Reihe
