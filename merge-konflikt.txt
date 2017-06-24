@@ -1,2 +1,7 @@
 Hier kommt ein anderer Text rein.
 Das wird schief gehen...
+
+Beide Commits sind wichtig
+
+Hier kommt ein Merge-Konflikt.
+Es werden die gleichen Zeilen verändert.
